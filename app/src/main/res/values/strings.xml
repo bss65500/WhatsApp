@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="tv">Contact Name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="chats_fragment">Chats Fragment</string>
+    <string name="status_fragment">Status Fragment</string>
+    <string name="calls_fragment">Calls Fragment</string>
+</resources>
